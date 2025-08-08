@@ -1,24 +1,21 @@
-## Hi there 👋
-
-<!--
-**TalariLikhitha/TalariLikhitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on AI Face Detection Project
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...Email: talarilikhitha2000@gmail.com
-LinkedIn: linkedin.com/in/likhitha-talari-39954a217
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Talari Likhitha</h1>
 <h3 align="center">A passionate Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talarilikhitha&label=Profile%20views&color=0e75b6&style=flat" alt="talarilikhitha" /> </p>
+
+- 🔭 I’m currently working on **AI Face Detection Project**
+
+- 🌱 I’m currently learning **Python, Frontend Development**
+
+- 👯 I’m looking to collaborate on **Student Result management System**
+
+- 🤝 I’m looking for help with **Building real-world web apps using React and backend tools**
+
+- 💬 Ask me about **HTML,Java,SQL**
+
+- 📫 How to reach me **talarilikhitha2000@gmail.com**
+
+- ⚡ Fun fact **I'm great at organizing group activities and love solving Sudoku puzzles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
